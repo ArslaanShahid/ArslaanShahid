@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @ArslaanShahid
-- 👀 I’m interested in New Technology
-- 🌱 I’m currently learning React & Laravel.
-- 💞️ I’m looking to collaborate on Different project that will enhance my skills. 
-- 📫 you can reach me here arslanmehmood100@gmail.com
-- Working as a freelancer.
+
